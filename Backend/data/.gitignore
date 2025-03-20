@@ -1,0 +1,6 @@
+# Ignorer tout le contenu de /data/journal/ qui contient les fichiers volumineux
+Backend/data/journal/
+
+# Ignorer tout ce qui est dans /data/ sauf si tu veux garder des fichiers spécifiques
+Backend/data/*
+
